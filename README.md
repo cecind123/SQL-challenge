@@ -1,4 +1,4 @@
-In this assignment, I design tables to hold data in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
+In this assignment, I design tables to hold employee data provided in the CSVs, import the CSVs into a SQL database, and answer questions about the data. 
 
 There are 3 components of this project:
     
