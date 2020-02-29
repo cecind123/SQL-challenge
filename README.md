@@ -24,3 +24,10 @@ There are 3 components of this project:
     At the end, I import the SQL database into Pandas using SQLAlchemy to: 
         -Create a histogram to visualize the most common salary ranges for employees.
         -Create a bar chart of average salary by title.
+
+
+In the event that my Jupyter Lab file does not properly load in Github, please use this direct link to view my file. https://nbviewer.jupyter.org/github/cecind123/SQL-challenge/blob/master/SQLHW.ipynb
+
+Also, if you are individually/manually importing in the CSVs, please disregard the block of code at the bottom of my SQL_table_schemata.sql file. That block is to read in the CSVs using Python. 
+
+Thanks!
